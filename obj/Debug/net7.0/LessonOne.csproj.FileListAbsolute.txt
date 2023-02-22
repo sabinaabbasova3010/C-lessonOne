@@ -1,0 +1,15 @@
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\bin\Debug\net7.0\LessonOne.exe
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\bin\Debug\net7.0\LessonOne.deps.json
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\bin\Debug\net7.0\LessonOne.runtimeconfig.json
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\bin\Debug\net7.0\LessonOne.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\bin\Debug\net7.0\LessonOne.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\LessonOne.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\LessonOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\LessonOne.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\LessonOne.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\LessonOne.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\LessonOne.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\refint\LessonOne.dll
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\LessonOne.pdb
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\LessonOne.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive\Рабочий стол\LessonOne\obj\Debug\net7.0\ref\LessonOne.dll
